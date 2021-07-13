@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/Rsp-Game/static/css/main.69decfba.chunk.css",
+    "main.js": "/github.io/Rsp-Game/static/js/main.4d68392f.chunk.js",
+    "main.js.map": "/github.io/Rsp-Game/static/js/main.4d68392f.chunk.js.map",
+    "runtime-main.js": "/github.io/Rsp-Game/static/js/runtime-main.e0ea0b5d.js",
+    "runtime-main.js.map": "/github.io/Rsp-Game/static/js/runtime-main.e0ea0b5d.js.map",
+    "static/js/2.9a417250.chunk.js": "/github.io/Rsp-Game/static/js/2.9a417250.chunk.js",
+    "static/js/2.9a417250.chunk.js.map": "/github.io/Rsp-Game/static/js/2.9a417250.chunk.js.map",
+    "static/js/3.9f650d40.chunk.js": "/github.io/Rsp-Game/static/js/3.9f650d40.chunk.js",
+    "static/js/3.9f650d40.chunk.js.map": "/github.io/Rsp-Game/static/js/3.9f650d40.chunk.js.map",
+    "index.html": "/github.io/Rsp-Game/index.html",
+    "static/css/main.69decfba.chunk.css.map": "/github.io/Rsp-Game/static/css/main.69decfba.chunk.css.map",
+    "static/js/2.9a417250.chunk.js.LICENSE.txt": "/github.io/Rsp-Game/static/js/2.9a417250.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/github.io/Rsp-Game/static/media/wabisabip-wabi2.dfa90b05.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0ea0b5d.js",
+    "static/js/2.9a417250.chunk.js",
+    "static/css/main.69decfba.chunk.css",
+    "static/js/main.4d68392f.chunk.js"
+  ]
+}
