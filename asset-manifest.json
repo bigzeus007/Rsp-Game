@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Rsp-Game/static/css/main.41a8f26e.chunk.css",
+    "main.js": "/Rsp-Game/static/js/main.4d68392f.chunk.js",
+    "main.js.map": "/Rsp-Game/static/js/main.4d68392f.chunk.js.map",
+    "runtime-main.js": "/Rsp-Game/static/js/runtime-main.00c777f8.js",
+    "runtime-main.js.map": "/Rsp-Game/static/js/runtime-main.00c777f8.js.map",
+    "static/js/2.9a417250.chunk.js": "/Rsp-Game/static/js/2.9a417250.chunk.js",
+    "static/js/2.9a417250.chunk.js.map": "/Rsp-Game/static/js/2.9a417250.chunk.js.map",
+    "static/js/3.9f650d40.chunk.js": "/Rsp-Game/static/js/3.9f650d40.chunk.js",
+    "static/js/3.9f650d40.chunk.js.map": "/Rsp-Game/static/js/3.9f650d40.chunk.js.map",
+    "index.html": "/Rsp-Game/index.html",
+    "static/css/main.41a8f26e.chunk.css.map": "/Rsp-Game/static/css/main.41a8f26e.chunk.css.map",
+    "static/js/2.9a417250.chunk.js.LICENSE.txt": "/Rsp-Game/static/js/2.9a417250.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Rsp-Game/static/media/wabisabip-wabi2.dfa90b05.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00c777f8.js",
+    "static/js/2.9a417250.chunk.js",
+    "static/css/main.41a8f26e.chunk.css",
+    "static/js/main.4d68392f.chunk.js"
+  ]
+}
